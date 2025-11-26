@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, tudo bem? 👋
 
-<!--
-**LucioAdrianoPC/LucioAdrianoPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Atualmente estou trabalhando em projetos com as seguintes tecnologias:</br></br>
+  ✅ PHP / Laravel</br>
+  ✅ React.js / Next.js</br>
+  ✅ Javascript / Typescript</br>
+  ✅ CSS / Bootstrap / Tailwind</br>
+  ✅ Material UI</br></br>
+  
+🌱 Atualmente estou aprendendo automação com Arduino
+
+📫 contato@biosweb.com.br
+
+
