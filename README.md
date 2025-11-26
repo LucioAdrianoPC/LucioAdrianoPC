@@ -1,6 +1,8 @@
+<div align="center">
+  <img src="./github-header-banner.png" width="100%" />
+</div>
+
 ## Olá, tudo bem? 👋
-
-
 
 🖥️ Atualmente estou trabalhando em projetos com as seguintes tecnologias:</br></br>
   ✅ PHP / Laravel</br>
